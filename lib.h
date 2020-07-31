@@ -4,4 +4,4 @@
 // greet: displays greeting with given string name
 void greet(char *name);
 
-#endif
+#endif /* LIB_H */
