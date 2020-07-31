@@ -2,6 +2,7 @@
 
 int main() {
   greet("Jehdi");
-  greet("Nick");  
+  greet("Nick");
+  // greet("Everyone");
   return 0;
 }
